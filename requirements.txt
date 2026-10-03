@@ -148,3 +148,6 @@ websockets==13.1
 Werkzeug==3.0.2
 zict==3.0.0
 zipp==3.21.0
+sentencepiece==0.2.1
+fastapi==0.115.14
+uvicorn==0.54.0

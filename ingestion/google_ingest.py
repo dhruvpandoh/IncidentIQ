@@ -78,10 +78,9 @@ def stream_news():
 
         time.sleep(POLL_INTERVAL)
 
-'''
+
 if __name__ == "__main__":
     try:
         stream_news()
     except KeyboardInterrupt:
         print("\n🛑 Stream stopped by user")
-'''
